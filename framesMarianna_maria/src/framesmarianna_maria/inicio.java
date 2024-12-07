@@ -160,7 +160,7 @@ public class inicio extends javax.swing.JFrame {
                 jButton3ActionPerformed(evt);
             }
         });
-        jPanel2.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 320, -1, -1));
+        jPanel2.add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(252, 320, 90, -1));
 
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagem/Captura de tela 2024-12-06 173802.png"))); // NOI18N
         jPanel2.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 470, 360));
